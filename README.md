@@ -2,6 +2,14 @@
 
 Proyek ini adalah implementasi dari penelitian untuk mengklasifikasikan potensi kecemasan (*anxiety*) pada pengguna Twitter berdasarkan analisis konten teks dan pola perilaku mereka. Skrip ini menggunakan pendekatan *Natural Language Processing* (NLP) dan *Machine Learning* untuk membangun model prediktif, melakukan analisis profil laten, dan mengevaluasi performa model.
 
+## Tim Peneliti (Kelompok 9)
+- **Ruli Hendrawan Saputra** (187221068)
+- **Dzakwan Fiodora Syafi’i** (187221079)
+- **Hiekam Nursal Muhammad** (187221090)
+- **Fardhan Erfandyar** (187221029)
+- **Zhillan Ahil Arrafi Siswadhi** (187221064)
+- **Billy Alexander Sugiyanto** (187221036)
+  
 ## Fitur Utama
 - **Pra-pemrosesan Teks Bahasa Indonesia**: Membersihkan dan menstandarisasi teks tweet, termasuk *case folding*, tokenisasi, dan penghapusan *stopword* dengan kamus Sastrawi yang diperluas.
 - **Ekstraksi Fitur Komprehensif**: Mengekstrak fitur perilaku (waktu posting, panjang teks) dan fitur sentimen (berdasarkan leksikon InSet).
