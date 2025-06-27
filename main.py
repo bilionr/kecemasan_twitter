@@ -463,7 +463,7 @@ def label_tweets():
     return df_test, account_predictions
 
 # Run
-if _name_ == "__main__":
+if __name__ == "__main__":
     try:
         df_labeled, account_predictions = label_tweets()
     except Exception as e:
